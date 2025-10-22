@@ -11,6 +11,7 @@ Todos os assets foram feitos usando Aseprite. A música do jogo é um trecho do 
 Esse jogo é inspirado no professor falando sobre Star Trek, que é minha série favorita. 
 
 Para iniciar o jogo, favor fazer no terminal: Python3 inicio.py 
+Requisitos: Pygame, Windows.
 
 
                                                                                             Jogo por: Anna Gabriele.
